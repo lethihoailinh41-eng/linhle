@@ -4,122 +4,142 @@ Hi there! I'm **Linh Le** — A passionate developer and design enthusiast explo
 
 ---
 
-## 🎯 About Me
+## 🏢 Featured Projects
 
-Dedicated to creating clean code and thoughtful designs. I believe in the power of innovation, attention to detail, and continuous learning.
+### Project 1: Apartment Unit W-X.12B (2PN+2)
 
----
-
-## 🏢 Featured Project: Apartment Unit W-X.12B
-
-### 📋 Project Overview
+#### 📋 Project Overview
 
 | Attribute | Details |
 |-----------|---------|
 | **Unit Type** | 2 Bedrooms, 2 Bathrooms |
+| **Unit Code** | CĂN HỘ 2PN W-X.12B |
 | **Total Width** | 9,080 mm |
 | **Total Depth** | 5,880 mm |
-| **Unit Code** | CĂN HỘ 2PN W-X.12B |
 | **Status** | Design Phase |
 
----
+#### 🛏️ Room Layout & Specifications
 
-## 🛏️ Room Layout & Specifications
-
-### Living Spaces
+**Living Spaces**
 
 | Room | Width (mm) | Depth (mm) | Area (m²) | Features |
 |------|-----------|-----------|----------|----------|
-| **Phòng Khách** (Living Room) | 2,890 | 5,880 | 17.0 | Dining + seating area, balcony access |
-| **Phòng Ngủ 1** (Master Bedroom) | 2,915 | 5,385 | 15.7 | Built-in wardrobe, private entrance |
-| **Phòng Ngủ 2** (Guest Bedroom) | 2,755 | 4,260 | 11.7 | Built-in storage, corridor access |
-| **Bếp** (Kitchen) | — | 156 | — | Double sink, 2-burner cooktop, countertop |
+| Phòng Khách (Living Room) | 2,890 | 5,880 | 17.0 | Dining + seating, balcony access |
+| Phòng Ngủ 1 (Master Bedroom) | 2,915 | 5,385 | 15.7 | Built-in wardrobe, private entrance |
+| Phòng Ngủ 2 (Guest Bedroom) | 2,755 | 4,260 | 11.7 | Built-in storage, corridor access |
+| Bếp (Kitchen) | — | 156 | — | Double sink, 2-burner cooktop |
 
-### Wet Areas
+**Wet Areas**
 
 | Room | Width (mm) | Height (mm) | Features |
 |------|-----------|-----------|----------|
-| **WC 1** | 2,505 | 1,450 | Sink, toilet, shower area |
-| **WC 2** | 2,545 | 1,450 | Guest bathroom, sink + toilet |
+| WC 1 | 2,505 | 1,450 | Sink, toilet, shower area |
+| WC 2 | 2,545 | 1,450 | Guest bathroom, sink + toilet |
 
-### Additional Spaces
+**Additional Spaces**
 
 | Space | Dimension | Purpose |
 |-------|-----------|---------|
-| **Lô Gia** (Balcony) | 2,890 × 970 mm | Outdoor living |
-| **Tủ Giấy** (Storage) | 905 × 2,165 mm | Built-in closet |
-| **Giấp Phòi** (Hallway) | 905 mm width | Circulation |
+| Lô Gia (Balcony) | 2,890 × 970 mm | Outdoor living |
+| Tủ Giấy (Storage) | 905 × 2,165 mm | Built-in closet |
 
 ---
 
-## 🎨 Design Features
+### Project 2: Apartment Unit W-X.15 (1PN+1)
 
-### Strengths
+#### 📋 Project Overview
+
+| Attribute | Details |
+|-----------|---------|
+| **Unit Type** | 1 Bedroom + 1 Living Room |
+| **Unit Code** | CĂN HỘ 1PN+1 W-X.15 |
+| **Total Width** | 4,640 mm |
+| **Total Depth** | Variable |
+| **Status** | Design Phase |
+| **Target Occupant** | Young professional / Single family |
+
+#### 🛏️ Room Layout & Specifications
+
+**Living Spaces**
+
+| Room | Width (mm) | Depth (mm) | Features |
+|------|-----------|-----------|----------|
+| Phòng Đa Năng (Multi-purpose Room) | 2,390 | 3,370 | Flexible studio/workspace |
+| Phòng Ngủ 1 (Bedroom) | 3,370 | 3,320 | Bed, wardrobe, window |
+| Bếp (Kitchen) | 9,131 | — | 3-burner cooktop, 2 sinks, cabinets |
+| Phòng Khách (Living Room) | 4,640 | — | Dining table, sofa area |
+| Kệ Tivi Treo (TV Wall) | — | — | Wall-mounted entertainment |
+
+**Wet Areas & Additional Spaces**
+
+| Space | Dimension | Features |
+|--------|-----------|----------|
+| WC 1 (Bathroom) | 2,750 × 1,350 | Sink, toilet, shower |
+| Giấp Phòi (Hallway) | 970 mm | Small circulation space |
+| Lô Gia (Balcony) | 970 mm width | Outdoor extension |
+| Tủ Giấy (Storage Closet) | — | Built-in storage |
+
+#### 📐 Key Dimensions (W-X.15)
+
+```
+Total Unit Width:         4,640 mm (4.64 m)
+Multi-purpose Room:       2,390 × 3,370 mm
+Bedroom:                  3,370 × 3,320 mm
+Kitchen Depth:            913 mm (very compact)
+Bathroom:                 2,750 × 1,350 mm
+Balcony Width:            970 mm
+```
+
+---
+
+## 🎨 Design Features - All Units
+
+### W-X.12B (2PN+2) Strengths
 ✅ Open-plan living and kitchen integration  
 ✅ Dual bathrooms for convenience  
 ✅ Generous bedroom sizes with storage  
-✅ Efficient traffic flow and circulation  
+✅ Efficient traffic flow  
 ✅ Extended balcony for outdoor space  
-✅ Optimized natural light placement  
+✅ Optimized natural light  
 
-### Room Configuration
-```
-┌─────────────────────────────────────────┐
-│                                         │
-│  PHÒNG NGỦ 1        │  WC 2 │  BẾPSYSTEM │
-│  (2915 × 5385)      │       │          │
-│                     │       │  BÙ LỮ   │
-├──────────────┬──────┴───────┴──────────┤
-│  PHÒNG NGỦ 2 │                        │
-│  (2755×4260) │   PHÒNG KHÁCH          │
-│              │   (2890 × 5880)        │
-│  WC 1        │                        │
-└──────────────┴──────┬──────────────────┤
-│                     │  LÔ GIA          │
-│                     │  (2890 × 970)    │
-└─────────────────────┴──────────────────┘
-```
+### W-X.15 (1PN+1) Highlights
+✅ **Compact efficiency** — Maximized usable space  
+✅ **Multi-purpose room** — Flexible studio/workspace  
+✅ **Integrated kitchen** — Full appliances in compact area  
+✅ **Smart layout** — Clear zone separation  
+✅ **Modern amenities** — TV wall, storage solutions  
+✅ **Balcony access** — Natural ventilation and outdoor space  
 
 ---
 
-## 📊 Key Metrics
+## 📊 Comparison Summary
 
-### Dimensional Summary
-```
-Total Width:        9,080 mm (9.08 m)
-Total Depth:        5,880 mm (5.88 m)
-Bedroom 1 Size:     2,915 × 5,385 mm
-Bedroom 2 Size:     2,755 × 4,260 mm
-Living Room Size:   2,890 × 5,880 mm
-Bathroom 1 Size:    2,505 × 1,450 mm
-Bathroom 2 Size:    2,545 × 1,450 mm
-Balcony Size:       2,890 × 970 mm
-```
-
-### Space Distribution
-| Zone | Area % | Purpose |
-|------|--------|---------|
-| **Bedrooms** | 35% | Private sleeping areas |
-| **Living/Dining** | 40% | Social & dining space |
-| **Bathrooms** | 10% | Wet areas |
-| **Kitchen** | 8% | Cooking & prep |
-| **Other** | 7% | Storage, circulation |
+| Feature | W-X.12B (2PN+2) | W-X.15 (1PN+1) |
+|---------|-----------------|-----------------|
+| **Bedrooms** | 2 | 1 |
+| **Bathrooms** | 2 | 1 |
+| **Total Width** | 9,080 mm | 4,640 mm |
+| **Best For** | Families, couples | Young professionals, singles |
+| **Living Rooms** | 1 | 2 (incl. multi-purpose) |
+| **Layout Type** | Spacious | Compact/Efficient |
+| **Key Feature** | Dual baths | Multi-purpose flexibility |
 
 ---
 
 ## 🛠️ Design Approach
 
-**No AutoCAD Required!** This project demonstrates professional architectural planning using:
+**No AutoCAD Required!** These projects demonstrate professional architectural planning using:
 - Strategic measurements and proportions
 - Efficient space utilization
 - Modern apartment design standards
 - Functional zone separation
+- Flexible living solutions
 
 ---
 
 ## 💻 Tools & Technologies
 
-- **Design Software:** [Figma, SketchUp, etc.]
+- **Design Software:** [Figma, SketchUp, Floor Plan Design Tools]
 - **Visualization:** Floor plan analysis & Markdown documentation
 - **Focus Areas:** Architecture, UX Design, Web Development
 
@@ -128,15 +148,17 @@ Balcony Size:       2,890 × 970 mm
 ## 📞 Connect With Me
 
 - 📧 **Email:** [Your Email]
-- 💼 **LinkedIn:** [Your Profile]
+- 💼 **LinkedIn:** [Your LinkedIn Profile]
 - 🌐 **Portfolio:** [Your Website]
 - 🐦 **Twitter:** [Your Handle]
+- 📱 **Phone:** [Your Phone Number]
 
 ---
 
 ## 📅 Latest Updates
 
-- **May 21, 2026** — Apartment design specification completed
+- **May 21, 2026** — Added apartment design W-X.15 (1PN+1) specifications
+- **May 21, 2026** — Completed W-X.12B (2PN+2) design documentation
 - More projects coming soon...
 
 ---
